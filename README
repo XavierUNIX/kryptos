@@ -2,7 +2,7 @@
 =================================================================κρυπτός=============================================================================================
 WARNING: Always back up your pair of Asymmetric Keys, and make sure you can decrypt your original files after encrytion.
 
-					KRYPTOS USE: MAC OX
+					KRYPTOS USE: MAC OS
 
 	1. Place only one pair of keys either 3,072-bits or 4,224-bits at /Users/kryptos/keys/		(k is a lower-case!)
 	   * DO NOT MIX THE KEYS THEY ARE UNIQUE ASYMMETRIC PAIRS AND ALWAYS BACK THEM UP!
